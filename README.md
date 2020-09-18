@@ -1,9 +1,6 @@
 <img
-src=“logo/mrtim_logo.png”
-raw=true
-alt=“MR-TIM”
-style=“margin-right: 10px;”
-/>
+src=“https://github.com/gtaberna/mrtim/blob/master/logo/mrtim_logo.png”
+alt=“MR-TIM”>
 
 MR-TIM: MR-based head tissue modelling is open source MATLAB software for head tissue modelling from structural magnetic resonance (MR) images.
 It performs automated segmentation of T1-weighted MR images in 12 tissues: brain gray matter (GM), cerebellar GM, brain white matter (WM), cerebellar WM, brainstem, cerebrospinal fluid, spongy bone, compact bone, muscle, fat, eyes and skin.
